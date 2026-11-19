@@ -35,7 +35,7 @@ service account (those have 0 storage quota on consumer Gmail).
    | `GOOGLE_CLIENT_SECRET` | from step 4 |
    | `GOOGLE_REFRESH_TOKEN` | from step 4 |
    | `DRIVE_FOLDER_ID` | from step 5 |
-   | `MAIL_TO` | `darshpuri2006@gmail.com,dineshpuri@gmail.com` |
+   | `MAIL_TO` | `` |
 
 ## Test it
 
